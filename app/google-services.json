@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "2450065912",
+    "firebase_url": "https://anniversary-chat.firebaseio.com",
+    "project_id": "anniversary-chat",
+    "storage_bucket": "anniversary-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2450065912:android:2930afe6fa3fc59c",
+        "android_client_info": {
+          "package_name": "com.example.ogulcantoker.anniversarychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2450065912-tr31vtnpo8n6esi3k4q95n0cu7f73bhv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ogulcantoker.anniversarychat",
+            "certificate_hash": "343b539024534428f44ca5badad88c4d7d819051"
+          }
+        },
+        {
+          "client_id": "2450065912-tb55ukmcdbcdnl6einega3duv45qs4o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARHVSazf3IOMsPxpeA3hhE13Ejdb00GaI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2450065912-tb55ukmcdbcdnl6einega3duv45qs4o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
